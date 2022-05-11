@@ -2,7 +2,7 @@
 Simple storage program in python
 
 ### Topics covered
-###### Deploying a Contract
+#### Deploying a Contract
  - Reading our solidity file
  - Compiling in Python
  - py-solc-x
@@ -28,7 +28,7 @@ Simple storage program in python
  - .env file
  - Viewing our Transaction / Deployment in Ganache
  - Waiting for Block Confirmations
-###### Interacting with Our Contract in Python & Web3.py
+#### Interacting with Our Contract in Python & Web3.py
  - 2 Things you always need: Contract Address, Contract ABI
  - Getting address from transaction receipt
  - Calling a view function with web3.py
