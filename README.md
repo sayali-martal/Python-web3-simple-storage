@@ -1,4 +1,4 @@
-# Python-web3-simple-storage
+# Python web3 simple storage
 Simple storage program in python
 
 ### Topics covered
